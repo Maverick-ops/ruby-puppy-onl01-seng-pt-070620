@@ -7,7 +7,7 @@ class Dog
     @name = name
   # @@all << self #everything passed with this until the end not sure why 
    #i had to remove this and add save
-  # save  
+   save  
   end 
   
   def self.all
